@@ -21,4 +21,4 @@
 |  2-2. TCP/IP 4계층 모델  | 23.02.13 |                 [링크](Chapter2/2.%20TCP/IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8)                  |
 |    2-3. 네트워크 기기    | 23.02.19 |             [링크](Chapter2/3.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EA%B8%B0)              |
 |       2-4. IP 주소       | 23.02.19 |                              [링크](Chapter2/4.%20IP%20%EC%A3%BC%EC%86%8C)                               |
-|        2-5. HTTP         |          |                                                                                                          |
+|        2-5. HTTP         | 23.03.12 |                                        [링크](Chapter2/5.%20HTTP)                                        |
